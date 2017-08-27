@@ -27,5 +27,38 @@
     <ClCompile Include="leetcode-Kth largest Number in Multiplication Table.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="codeforce-832B Petya and Exam.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="codeforce-844B Rectangles.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="codeforce-844C Sorting by Subsequences.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="codeforce-844A Diversity.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="codeforce-825E Minimal Labels.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="codeforce-825D Suitable Replacement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-希尔伯特曲线.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-有序01字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-回文字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-压缩字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-小Hi的烦恼%28bitset%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

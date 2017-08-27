@@ -74,6 +74,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="codeforce-825D Suitable Replacement.cpp" />
+    <ClCompile Include="codeforce-825E Minimal Labels.cpp" />
+    <ClCompile Include="codeforce-832B Petya and Exam.cpp" />
+    <ClCompile Include="codeforce-844A Diversity.cpp" />
+    <ClCompile Include="codeforce-844B Rectangles.cpp" />
+    <ClCompile Include="codeforce-844C Sorting by Subsequences.cpp" />
+    <ClCompile Include="hihocoder-回文字符串.cpp" />
+    <ClCompile Include="hihocoder-小Hi的烦恼%28bitset%29.cpp" />
+    <ClCompile Include="hihocoder-希尔伯特曲线.cpp" />
+    <ClCompile Include="hihocoder-有序01字符串.cpp" />
+    <ClCompile Include="hihocoder-压缩字符串.cpp" />
     <ClCompile Include="leetcode-Beautiful Arrangement II.cpp" />
     <ClCompile Include="leetcode-Kth largest Number in Multiplication Table.cpp" />
     <ClCompile Include="leetcode-Non-decreasing Array.cpp" />
