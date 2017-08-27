@@ -60,5 +60,38 @@
     <ClCompile Include="hihocoder-小Hi的烦恼%28bitset%29.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="hihocoder-H国的身份证号码I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-区间求差.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-股票价格(set and multiset).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-穿越进去.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-任务分配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-二进制小数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-非法二进制数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-区域周长.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-A Box of Coins.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-Queen Attack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hihocoder-顺序三元组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
