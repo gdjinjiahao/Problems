@@ -1,0 +1,135 @@
+﻿  leetcode-Path Sum IV.cpp
+c:\users\administrator\documents\git\problems\problems\problems\leetcode-path sum iv.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  leetcode-Non-decreasing Array.cpp
+c:\users\administrator\documents\git\problems\problems\problems\leetcode-non-decreasing array.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\git\problems\problems\problems\leetcode-non-decreasing array.cpp(23): warning C4018: “<=”: 有符号/无符号不匹配
+  leetcode-Kth largest Number in Multiplication Table.cpp
+  leetcode-Beautiful Arrangement II.cpp
+  hihocoder-顺序三元组.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-顺序三元组.cpp(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-顺序三元组.cpp(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-非法二进制数.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-非法二进制数.cpp(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-股票价格(set and multiset).cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-股票价格(set and multiset).cpp(100): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-股票价格(set and multiset).cpp(106): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-股票价格(set and multiset).cpp(109): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-股票价格(set and multiset).cpp(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-穿越进去.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-穿越进去.cpp(76): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-穿越进去.cpp(100): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-穿越进去.cpp(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-穿越进去.cpp(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-穿越进去.cpp(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-压缩字符串.cpp
+  hihocoder-有序01字符串.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-有序01字符串.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-希尔伯特曲线.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-希尔伯特曲线.cpp(48): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-希尔伯特曲线.cpp(51): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-希尔伯特曲线.cpp(52): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-希尔伯特曲线.cpp(61): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-希尔伯特曲线.cpp(62): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-希尔伯特曲线.cpp(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-小Hi的烦恼(bitset).cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-小hi的烦恼(bitset).cpp(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-小hi的烦恼(bitset).cpp(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-回文字符串.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-回文字符串.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-区间求差.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-区间求差.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-区间求差.cpp(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-区间求差.cpp(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-区域周长.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-区域周长.cpp(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-区域周长.cpp(62): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-任务分配.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(38): error C2065: “greater”: 未声明的标识符
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(38): error C2062: 意外的类型“__int64”
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(38): error C2059: 语法错误:“>”
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(55): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(56): error C2065: “q”: 未声明的标识符
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(56): error C2228: “.empty”的左边必须有类/结构/联合
+  c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(56): note: 类型是“unknown-type”
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(56): error C2228: “.top”的左边必须有类/结构/联合
+  c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(56): note: 类型是“unknown-type”
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(56): error C2228: “.pop”的左边必须有类/结构/联合
+  c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(56): note: 类型是“unknown-type”
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(57): error C2065: “q”: 未声明的标识符
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(57): error C2228: “.push”的左边必须有类/结构/联合
+  c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(57): note: 类型是“unknown-type”
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(58): error C2065: “q”: 未声明的标识符
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(58): error C2228: “.size”的左边必须有类/结构/联合
+  c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(58): note: 类型是“unknown-type”
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(58): error C2672: “std::max”: 未找到匹配的重载函数
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(58): error C2784: “_Ty std::max(std::initializer_list<_Elem>)”: 未能从“int”为“std::initializer_list<_Elem>”推导 模板 参数
+  d:\programs\vs2017\vc\tools\msvc\14.11.25503\include\algorithm(3724): note: 参见“std::max”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(58): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+  d:\programs\vs2017\vc\tools\msvc\14.11.25503\include\algorithm(3716): note: 参见“std::max”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(58): error C2780: “_Ty std::max(std::initializer_list<_Elem>,_Pr)”: 应输入 2 个参数，却提供了 1 个
+  d:\programs\vs2017\vc\tools\msvc\14.11.25503\include\algorithm(3705): note: 参见“std::max”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(58): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 1 个
+  d:\programs\vs2017\vc\tools\msvc\14.11.25503\include\algorithm(3696): note: 参见“std::max”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-任务分配.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-二进制小数.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-二进制小数.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-二进制小数.cpp(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-二进制小数.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-Queen Attack.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-queen attack.cpp(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-queen attack.cpp(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hihocoder-H国的身份证号码I.cpp
+  hihocoder-A Box of Coins.cpp
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-a box of coins.cpp(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\hihocoder-a box of coins.cpp(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  正在生成代码...
+  正在编译...
+  codeforces-433A Fraction.cpp
+  codeforce-844C Sorting by Subsequences.cpp
+c:\users\administrator\documents\git\problems\problems\problems\codeforce-844c sorting by subsequences.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\git\problems\problems\problems\codeforce-844c sorting by subsequences.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\codeforce-844c sorting by subsequences.cpp(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  codeforce-844B Rectangles.cpp
+  codeforce-844A Diversity.cpp
+  codeforce-832B Petya and Exam.cpp
+c:\users\administrator\documents\git\problems\problems\problems\codeforce-832b petya and exam.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\git\problems\problems\problems\codeforce-832b petya and exam.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+  codeforce-825E Minimal Labels.cpp
+c:\users\administrator\documents\git\problems\problems\problems\codeforce-825e minimal labels.cpp(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\git\problems\problems\problems\codeforce-825e minimal labels.cpp(67): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\administrator\documents\git\problems\problems\problems\codeforce-825e minimal labels.cpp(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  codeforce-825D Suitable Replacement.cpp
+  正在生成代码...

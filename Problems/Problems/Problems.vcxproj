@@ -83,6 +83,8 @@
     <ClCompile Include="codeforce-844A Diversity.cpp" />
     <ClCompile Include="codeforce-844B Rectangles.cpp" />
     <ClCompile Include="codeforce-844C Sorting by Subsequences.cpp" />
+    <ClCompile Include="codeforces-433A Fraction.cpp" />
+    <ClCompile Include="codeforces-433B Maxim Buys an Apartment.cpp" />
     <ClCompile Include="hihocoder-A Box of Coins.cpp" />
     <ClCompile Include="hihocoder-H国的身份证号码I.cpp" />
     <ClCompile Include="hihocoder-Queen Attack.cpp" />

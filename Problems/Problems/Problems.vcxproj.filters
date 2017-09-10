@@ -93,5 +93,11 @@
     <ClCompile Include="hihocoder-顺序三元组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="codeforces-433A Fraction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="codeforces-433B Maxim Buys an Apartment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
