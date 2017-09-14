@@ -99,5 +99,8 @@
     <ClCompile Include="codeforces-433B Maxim Buys an Apartment.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="hihocoder-数组重排.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
