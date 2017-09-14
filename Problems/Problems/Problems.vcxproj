@@ -103,8 +103,11 @@
     <ClCompile Include="hihocoder-非法二进制数.cpp" />
     <ClCompile Include="hihocoder-顺序三元组.cpp" />
     <ClCompile Include="leetcode-Beautiful Arrangement II.cpp" />
+    <ClCompile Include="leetcode-Delete Node in a Linked List.cpp" />
     <ClCompile Include="leetcode-Kth largest Number in Multiplication Table.cpp" />
     <ClCompile Include="leetcode-Non-decreasing Array.cpp" />
+    <ClCompile Include="leetcode-Odd Even Linked List.cpp" />
+    <ClCompile Include="leetcode-Palindrome Linked List.cpp" />
     <ClCompile Include="leetcode-Path Sum IV.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
