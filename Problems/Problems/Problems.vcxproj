@@ -77,6 +77,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="codeforce-29A Quasi-palindrome.cpp" />
+    <ClCompile Include="codeforce-29B Kayaking.cpp" />
+    <ClCompile Include="codeforce-29C 1-2-3.cpp" />
+    <ClCompile Include="codeforce-29D Yet Another Array Queries Problem.cpp" />
     <ClCompile Include="codeforce-825D Suitable Replacement.cpp" />
     <ClCompile Include="codeforce-825E Minimal Labels.cpp" />
     <ClCompile Include="codeforce-832B Petya and Exam.cpp" />
