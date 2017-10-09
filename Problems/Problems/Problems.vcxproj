@@ -109,6 +109,7 @@
     <ClCompile Include="leetcode-Baseball Game.cpp" />
     <ClCompile Include="leetcode-Beautiful Arrangement II.cpp" />
     <ClCompile Include="leetcode-Delete Node in a Linked List.cpp" />
+    <ClCompile Include="leetcode-Find K Closest Elements.cpp" />
     <ClCompile Include="leetcode-K Empty Slots.cpp" />
     <ClCompile Include="leetcode-Kth largest Number in Multiplication Table.cpp" />
     <ClCompile Include="leetcode-Next Closest Time.cpp" />
