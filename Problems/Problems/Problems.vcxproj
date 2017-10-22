@@ -108,16 +108,19 @@
     <ClCompile Include="hihocoder-顺序三元组.cpp" />
     <ClCompile Include="leetcode-Baseball Game.cpp" />
     <ClCompile Include="leetcode-Beautiful Arrangement II.cpp" />
+    <ClCompile Include="leetcode-Best Time to Buy and Sell Stock with Transaction Fee.cpp" />
     <ClCompile Include="leetcode-Delete Node in a Linked List.cpp" />
     <ClCompile Include="leetcode-Find K Closest Elements.cpp" />
     <ClCompile Include="leetcode-K Empty Slots.cpp" />
     <ClCompile Include="leetcode-Kth largest Number in Multiplication Table.cpp" />
+    <ClCompile Include="leetcode-Minimum ASCII Delete Sum for Two Strings.cpp" />
     <ClCompile Include="leetcode-Next Closest Time.cpp" />
     <ClCompile Include="leetcode-Non-decreasing Array.cpp" />
     <ClCompile Include="leetcode-Odd Even Linked List.cpp" />
     <ClCompile Include="leetcode-Palindrome Linked List.cpp" />
     <ClCompile Include="leetcode-Path Sum IV.cpp" />
     <ClCompile Include="leetcode-Redundant Connection.cpp" />
+    <ClCompile Include="leetcode-Subarray Product Less Than K.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -138,5 +138,14 @@
     <ClCompile Include="leetcode-Find K Closest Elements.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="leetcode-Best Time to Buy and Sell Stock with Transaction Fee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode-Minimum ASCII Delete Sum for Two Strings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode-Subarray Product Less Than K.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
