@@ -147,5 +147,8 @@
     <ClCompile Include="leetcode-Subarray Product Less Than K.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="UVA-(dp)11584 Partitioning by Palindromes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

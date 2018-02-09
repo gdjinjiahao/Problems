@@ -121,6 +121,7 @@
     <ClCompile Include="leetcode-Path Sum IV.cpp" />
     <ClCompile Include="leetcode-Redundant Connection.cpp" />
     <ClCompile Include="leetcode-Subarray Product Less Than K.cpp" />
+    <ClCompile Include="UVA-(dp)11584 Partitioning by Palindromes.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
